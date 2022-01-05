@@ -64,5 +64,14 @@ body{
 }
 .background-third{
     background-color: rgb(235, 173, 145);
-
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 130px;
+    padding-top: 5px;
+}
+#footer-color{
+    color: green;
 }
