@@ -3,7 +3,7 @@ body{
 }
 .focus-area{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .text-color{
     color: orange;
@@ -16,6 +16,8 @@ body{
 }
 .half-width{
     margin-left: 100px;
+    margin-right: 100px;
+
 }
 .half-width img{
     width: 70%;
@@ -35,5 +37,32 @@ body{
 }
 .side-changes{
     background-repeat: no-repeat;
-    background-position: 94% 100%;
+    background-position: 90% 95%;
+}
+.text-center{
+    text-align: center;
+}
+.mission-area{
+    display: flex;
+    margin-bottom: 100px;
+}
+.three-part{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 20px;
+    padding-right: 5px;
+    border-radius: 20px;
+}
+.three-part img{
+    width: 100px;
+}
+.background-first{
+    background-color: rgb(241, 232, 232);
+}
+.background-second{
+    background-color: rgb(228, 189, 189);
+}
+.background-third{
+    background-color: rgb(235, 173, 145);
+
 }
