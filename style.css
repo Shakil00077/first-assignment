@@ -78,6 +78,9 @@ body{
     height: 130px;
     padding-top: 5px;
 }
+.font-style{
+    font-family: 'Courier New', Courier, monospace;
+}
 #footer-color{
     color: rgb(243, 50, 50);
 }
